@@ -1,0 +1,821 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: C97BK2i/zuOSkYvYb11PbJDZqlcopMD5k5rMSxxwSJM=
+
+Name: assets/achievements/achievements.json
+SHA-256-Digest: FFvuzLZQTjLbiVQolxQH+HumJdKUAkobbL/iV8sKhAw=
+
+Name: assets/achievements/images/ACH00.jpg
+SHA-256-Digest: G/L8LBulrb1LDig8Ix6FJssV3R1qB0Zn9p+TcBhhgv4=
+
+Name: assets/achievements/images/ACH00_gray.jpg
+SHA-256-Digest: 9BxSzTkAe86uWpgIDsPV27d02/WzSgUmgkbjUoZg0wA=
+
+Name: assets/achievements/images/ACH01.jpg
+SHA-256-Digest: 4hYZy7I4XoQMTBvA5Ak56Y+HZlsAtFlxuoAK9aakrmY=
+
+Name: assets/achievements/images/ACH01_gray.jpg
+SHA-256-Digest: VbnWzEm7aEL/LLtWeOUley2JPr7pqwVb4uz5f3n5BY8=
+
+Name: assets/achievements/images/ACH02.jpg
+SHA-256-Digest: KBAY75dFefow/zrLYmkQltBK0obvjYuA40BYKbBfBhU=
+
+Name: assets/achievements/images/ACH02_gray.jpg
+SHA-256-Digest: J6WmdlZB0T4xQjdQffJxeqh1jCcycP+Rq0SRvSGARAw=
+
+Name: assets/achievements/images/ACH03.jpg
+SHA-256-Digest: kD1g4vrAGztG4jydChfrqlfRmYIfzI8goVTOGMXJNxs=
+
+Name: assets/achievements/images/ACH03_gray.jpg
+SHA-256-Digest: e2WPnRuo7v7jWJVLMbtiNmlRCby1yBlcoxii5SpfB0A=
+
+Name: assets/achievements/images/ACH04.jpg
+SHA-256-Digest: VcUol5486LzbmuFlRd2nghXMiGs/Nd+Tj/LphkntKNM=
+
+Name: assets/achievements/images/ACH04_gray.jpg
+SHA-256-Digest: E2NLIDczYfBQ2aOjSRA+A/QHqRAnr8L2huBUTr9KeQE=
+
+Name: assets/achievements/images/ACH05.jpg
+SHA-256-Digest: 3M1E0Kd8IwvLbKsHpPwymW6Y/XPWerhKf3YIB9KcMuE=
+
+Name: assets/achievements/images/ACH05_gray.jpg
+SHA-256-Digest: 1dwhLMhGLRHwl8ovfo403Hall2tGNEFSbGb3C5ZUVGQ=
+
+Name: assets/achievements/images/ACH06.jpg
+SHA-256-Digest: OAqt2KmuTB0Gj3olRDk2oe0TKfH3e6EhyV4CnxRrIpw=
+
+Name: assets/achievements/images/ACH06_gray.jpg
+SHA-256-Digest: i3Jvr432UJIM7AmJhKlyAQXCzxrDI1/CajkcIJcB0sc=
+
+Name: assets/achievements/images/ACH07.jpg
+SHA-256-Digest: VuZmwTJkt2GC4Gyymzm+UOOZoE/dNFMnwC4IC4CZwqs=
+
+Name: assets/achievements/images/ACH07_gray.jpg
+SHA-256-Digest: C7kn7rSjg++4URfWdDZ6IPOLWYFQ3WZkNnjC4K00x98=
+
+Name: assets/achievements/images/ACH08.jpg
+SHA-256-Digest: dTwLcdQATEIzMqtnDh3O1TBmGkw5BBzv3IuxvBzK4uw=
+
+Name: assets/achievements/images/ACH08_gray.jpg
+SHA-256-Digest: 9OYKqTyOXivbBIJSf3z6LC0Ep05OxDG5gz+9xBwX8Oo=
+
+Name: assets/achievements/images/ACH09.jpg
+SHA-256-Digest: oEUE/BgflYNrgxM1KZ4A/rXlsPNXV+rsAegCheK1ft4=
+
+Name: assets/achievements/images/ACH09_gray.jpg
+SHA-256-Digest: Ed3ZdP3/2zaY+B9XPhhIFkLhWX4M1hMrPEgz+9zc9dg=
+
+Name: assets/achievements/images/ACH10.jpg
+SHA-256-Digest: U+LW+NRd1+kzPXuATrPgf4H+ovof+9oGQUkndKF1s4o=
+
+Name: assets/achievements/images/ACH10_gray.jpg
+SHA-256-Digest: 4zIDeKnG2p2IhKxGpbaa7LbW8f++6ZIiz80fTX9vYFk=
+
+Name: assets/achievements/images/ACH11.jpg
+SHA-256-Digest: lmSbgSpqc8pSwT+nEb561gTdlxq9c03j3fnA48iWMV8=
+
+Name: assets/achievements/images/ACH11_gray.jpg
+SHA-256-Digest: R44VbtVYsBgwKC4fonnD254VTUoLGizBV4g9JzOSDIM=
+
+Name: assets/achievements/images/ACH12.jpg
+SHA-256-Digest: 5gPetNG4cAS67QJYy975slKJJ3zGkONNzD2sVPJdWfI=
+
+Name: assets/achievements/images/ACH12_gray.jpg
+SHA-256-Digest: K+sW+gmWzUp910byu+GVy5ayIWPLRNOrROKV9rFE7xI=
+
+Name: assets/achievements/images/ACH13.jpg
+SHA-256-Digest: YYU5ioDnlcS8w81dmjSC3+BghCf1fnnuIzAo+YYUdlA=
+
+Name: assets/achievements/images/ACH13_gray.jpg
+SHA-256-Digest: tLqw4hhDnMHscNfDmZ3RsJLHKn2UU0DfyPaNE8miPuM=
+
+Name: assets/achievements/images/ACH14.jpg
+SHA-256-Digest: 7U7jvKBOdkLSY6d3/zE/7dqGFujqjsOoBYs8inoCzEU=
+
+Name: assets/achievements/images/ACH14_gray.jpg
+SHA-256-Digest: 6f/kos/IZ8akgI+vrvjr1u8x1+HcOKeqOqN0Xv1YNH4=
+
+Name: assets/achievements/images/ACH15.jpg
+SHA-256-Digest: 5lIUMhbuyR7+pOqyYR2M0NLmpHQVhRDmX/UNkpftNgg=
+
+Name: assets/achievements/images/ACH15_gray.jpg
+SHA-256-Digest: X7yxE1DEOl0Vd8gJjTrGisKjhMrv74zci33TgylrdcM=
+
+Name: assets/achievements/images/ACH16.jpg
+SHA-256-Digest: e1Zp43xGzPWp6VTUZiATHMQlqGw6CHfSW90zwk2OTas=
+
+Name: assets/achievements/images/ACH16_gray.jpg
+SHA-256-Digest: 94IL7+4FLzObcKnK31vLnxVFz2i4iRG2FYv0xeNcUAg=
+
+Name: assets/achievements/images/ACH17.jpg
+SHA-256-Digest: 0/wvA8LkqllJyYGFXdqJiio8RZGDUJHlp/qhoDlh/rw=
+
+Name: assets/achievements/images/ACH17_gray.jpg
+SHA-256-Digest: m6hUscph9arD70+rCQMU5izVuPVBpQ/id2XxbV6YtPA=
+
+Name: assets/achievements/images/ACH18.jpg
+SHA-256-Digest: c/ZXIIzgFfDCuqIT6t2ZtAOP+J/8EqZbvougDniiNSQ=
+
+Name: assets/achievements/images/ACH18_gray.jpg
+SHA-256-Digest: 1or0gbV+/90dh0lJQWkB5vl0Y50EMd68zwSp89NDRu0=
+
+Name: assets/achievements/images/ACH19.jpg
+SHA-256-Digest: qPBP05P3NgFKDD1Nd7CMO52QCqDtKheuweddCWFPrME=
+
+Name: assets/achievements/images/ACH19_gray.jpg
+SHA-256-Digest: XDGKn0172lMgtPeOIEJeF7/lrz8Ilmf2om69PYCwvZk=
+
+Name: assets/achievements/images/ACH20.jpg
+SHA-256-Digest: dPTO6kAeAYNDFB8G7p0o3jmdzK3Z8BmqDznl8Rkbats=
+
+Name: assets/achievements/images/ACH20_gray.jpg
+SHA-256-Digest: gVsIp9eETNhGx92o+Futy8+jtWMV7aLu1wDugT6P/mc=
+
+Name: assets/achievements/images/ACH21.jpg
+SHA-256-Digest: RsvTurNQRdO21HXiA8uSKSPmH8Cny+3kFCEq7OeYaqQ=
+
+Name: assets/achievements/images/ACH21_gray.jpg
+SHA-256-Digest: AuwJn1PWAGHF1v99WrSTQelnVSXaORi3lwaQCcmqC2I=
+
+Name: assets/achievements/images/ACH22.jpg
+SHA-256-Digest: CcXVUHP0fcOf9JiRrl3sybHhMZOfkuwxgwRH7gN6doE=
+
+Name: assets/achievements/images/ACH22_gray.jpg
+SHA-256-Digest: jnTxi80xO7jShPhtq+5PsB8JEqQv3B3uXBi9PKcbb2I=
+
+Name: assets/achievements/images/ACH23.jpg
+SHA-256-Digest: K09azZD5MY3sAw3I90cd5lvhIxUxHIME7bms9t3RYgo=
+
+Name: assets/achievements/images/ACH23_gray.jpg
+SHA-256-Digest: jhsO4gNf4b9CXx2ygAxNAqb/cR29WbtbvP+SkZy/Hsc=
+
+Name: assets/achievements/images/ACH24.jpg
+SHA-256-Digest: vym2rJNLCdW5crJ2cnhNxw/Ghi9vMD9XLNdpiWJ3nMc=
+
+Name: assets/achievements/images/ACH24_gray.jpg
+SHA-256-Digest: Jy+E2dqWcSEWVaTL/EtdXNzMVl/BYBD5R9hEKVkEnYc=
+
+Name: assets/achievements/images/ACH25.jpg
+SHA-256-Digest: VILik/Z+b5N0lb3KVUTnKymZvovYaWno93n132pKg9g=
+
+Name: assets/achievements/images/ACH25_gray.jpg
+SHA-256-Digest: I35qoWyhS695EHC6d6vqGe8I0dK0NQSeUBpQwpMpP9o=
+
+Name: assets/achievements/images/ACH26.jpg
+SHA-256-Digest: UZoSJAFEqnD8BF9nOpxeZwpjKA5oOLaujWRS5qtKRbI=
+
+Name: assets/achievements/images/ACH26_gray.jpg
+SHA-256-Digest: 69oEg+IGiNIVEZc8OJtw8tVzMY20gRiRBFkNum9OcIg=
+
+Name: assets/achievements/images/ACH27.jpg
+SHA-256-Digest: ZOXqyzZVrCe0tXhmUNCXttBTom5IGuZuVeAvumOHmUM=
+
+Name: assets/achievements/images/ACH27_gray.jpg
+SHA-256-Digest: eYtllrk2h43NDGm1uUS0Ietx4evpKudLSCgcCFY8YXY=
+
+Name: assets/achievements/images/ACH28.jpg
+SHA-256-Digest: dTX9ugcP/lezRkPXkl31FX9JtMtE0FNDIDeR//WCW0o=
+
+Name: assets/achievements/images/ACH28_gray.jpg
+SHA-256-Digest: kPntOVzOn6gb9/qzUM27tWjHxaExoLTVSRuLaD+apcc=
+
+Name: assets/achievements/images/ACH29.jpg
+SHA-256-Digest: WvtyQ8EqbBO2y8NPEM1XdGvi37hWWyD8nf+F6hk+MqI=
+
+Name: assets/achievements/images/ACH29_gray.jpg
+SHA-256-Digest: jzB3tTN8ekv3RGsObH5RaTnRCJijQds9J4cLfHb0/XU=
+
+Name: assets/achievements/images/ACH30.jpg
+SHA-256-Digest: cE91AOk3NugMOhRHhrL6w4iUPXf5qzY3kqLIy0efaRU=
+
+Name: assets/achievements/images/ACH30_gray.jpg
+SHA-256-Digest: kMMtQ+EHBa2H4vuiPpandvSThkvbjZ5fXmsZTtE97qc=
+
+Name: assets/achievements/images/ACH31.jpg
+SHA-256-Digest: EBUEUrjQrFF2kIk9W3awXpLeryoyNSo6oSnWPxhF7UQ=
+
+Name: assets/achievements/images/ACH31_gray.jpg
+SHA-256-Digest: jlDAyfVUNi82sQxau5IxZ1oBYI2dQrMhUBfkzA0PO1Y=
+
+Name: assets/achievements/images/ACH32.jpg
+SHA-256-Digest: 3pgtnXi7g35IZraWmhAE3qepoXmQOk6MIOu9G0QD4/Q=
+
+Name: assets/achievements/images/ACH32_gray.jpg
+SHA-256-Digest: zGNQ8rNFioDH5qrfMgmsroeuMyXAq0zmMPyqTeQFiEs=
+
+Name: assets/achievements/images/ACH33.jpg
+SHA-256-Digest: AIqH6G/g/Zj7wEsDaroI/TL7rnmtJwQUPLkk6L2cz/w=
+
+Name: assets/achievements/images/ACH33_gray.jpg
+SHA-256-Digest: Q5kqFCWiOthjyXsaLGFMnjgumrZw8o2td0BVSePU/oo=
+
+Name: assets/achievements/images/ACH34.jpg
+SHA-256-Digest: a6fXjRYqLmX9zUOAC45KEzyI4hflyTlL/fJgU76WwEk=
+
+Name: assets/achievements/images/ACH34_gray.jpg
+SHA-256-Digest: 5VRpWRqidSNxPjEWX6seWp8NhI+KWLOIYwdH8ktE28w=
+
+Name: assets/achievements/images/ACH35.jpg
+SHA-256-Digest: hgCNF0vGuG3eQ2jUmMPTqjy+o5GF3rRmvKfmGvzSsM0=
+
+Name: assets/achievements/images/ACH35_gray.jpg
+SHA-256-Digest: U+C0/pDhJ4wzYCkTQeVOv9SLlil3ZVfaOsRMRpgQGYg=
+
+Name: assets/achievements/images/ACH36.jpg
+SHA-256-Digest: lZ8ZlqQxsuskzdRMMwaR7k2kr/CcHxOuAQySBOUFdk0=
+
+Name: assets/achievements/images/ACH36_gray.jpg
+SHA-256-Digest: E2J65/tHTYPvwcHJyVGSZkbzSO9H1rnxUJrvP+jzM0Y=
+
+Name: assets/achievements/images/ACH38.jpg
+SHA-256-Digest: EqWPkk1pdgWMA5D24OCf6TIbMvwGYVGZeNThT2lI5Us=
+
+Name: assets/achievements/images/ACH38_gray.jpg
+SHA-256-Digest: KehI0HM+MLvf3IBBBy2DHnrhba0OFTIzlJK6ISc+h/M=
+
+Name: assets/achievements/images/ACH39.jpg
+SHA-256-Digest: uwFZvWG0viSo6l7tqg1rqOaqEKyRmHAww3sUQZ6bUF4=
+
+Name: assets/achievements/images/ACH39_gray.jpg
+SHA-256-Digest: Ygo8N/8UzZY0m6FYn0A5L2NPcnZbvRxBb8ALXTfXwpk=
+
+Name: assets/achievements/images/ACH40.jpg
+SHA-256-Digest: Qp+U8dfbXNURZZTO4bdtbMRxpCmlqMOsVS6wuTvbQm8=
+
+Name: assets/achievements/images/ACH40_gray.jpg
+SHA-256-Digest: tTyAAIGNu1sTgUbfK9gLjyaBQKD9sxuh6oK60eo61T0=
+
+Name: assets/achievements/images/ACH41.jpg
+SHA-256-Digest: ZpMz9irxEgJmrQnnwI43kDbGqQygGFNh1iGm1dfEj0g=
+
+Name: assets/achievements/images/ACH41_gray.jpg
+SHA-256-Digest: xQ/d+pLs2S6isaxQ/BRNyJwhS9qi+T56pvk0jA49lA0=
+
+Name: assets/achievements/images/ACH42.jpg
+SHA-256-Digest: kHFTtfkJ4/8uRXW9qZSj+NzP5HT8dUN3SlzfU5vQHMs=
+
+Name: assets/achievements/images/ACH42_gray.jpg
+SHA-256-Digest: oCUTcnjADWeOOYyBDzbaOwG1MuG0nlgwJeXnxC0GyOk=
+
+Name: assets/achievements/images/ACH43.jpg
+SHA-256-Digest: 3iJYKNJqOn0YsgmG73gFMjC39uvw0mWEZkqsUV+vyE8=
+
+Name: assets/achievements/images/ACH43_gray.jpg
+SHA-256-Digest: 0AIu1Cx+jKGvIiGm23jPax4A2Yp1Q1eRoJj52mOjb/c=
+
+Name: assets/achievements/images/ACH45.jpg
+SHA-256-Digest: l8t2w9zNB/WIrNx/XVNxYHYI1Gl7nVYwYi0v8jhFLek=
+
+Name: assets/achievements/images/ACH45_gray.jpg
+SHA-256-Digest: dVoHa0z21d0D1b7Io2J4ucm4+KKgd6RecSf2WWFw2Fw=
+
+Name: assets/achievements/images/ACH46.jpg
+SHA-256-Digest: 5RmxuvSoK8Xk4p4haS3D6FUOQJNrVOZOBmWWSNmIT4k=
+
+Name: assets/achievements/images/ACH46_gray.jpg
+SHA-256-Digest: /99QsAfkOpMq84tKfMa2Hsb+0bQ1omrmQpraT/p5w5Y=
+
+Name: assets/achievements/images/ACH47.jpg
+SHA-256-Digest: svs4lVYW+wJciZRfslOKPP9i7fGhwc1i10nkN+SBX58=
+
+Name: assets/achievements/images/ACH47_gray.jpg
+SHA-256-Digest: VSxsR5zJU2lDtx3vc5VPbbeBP4UmRWemjqSXNLlPiyE=
+
+Name: assets/achievements/images/ACH48.jpg
+SHA-256-Digest: o9/PipZEXyAw66Ln5F8iypne+gQgnScGB9KQbG+gxXk=
+
+Name: assets/achievements/images/ACH48_gray.jpg
+SHA-256-Digest: IdpC94wG1bMQgEaRBySz+EGITnU2bAmA15C/hUeDyDI=
+
+Name: assets/achievements/images/ACH49.jpg
+SHA-256-Digest: OfndWyeUkNi53YynsP95PquTmsSp/39TOTRxr6JZzU8=
+
+Name: assets/achievements/images/ACH49_gray.jpg
+SHA-256-Digest: ibA9p+HMACOzb6YXdklHr+vVaxr2e1SrQYwr+fbnyVs=
+
+Name: assets/achievements/images/ACH50.jpg
+SHA-256-Digest: cI5xZEPtVYyUcSw0FEfTfOJiCqsuBa1Bi2O0WZY0IQQ=
+
+Name: assets/achievements/images/ACH50_gray.jpg
+SHA-256-Digest: XOw5Wilyc4qA2Y+tTEIjDZdoUqM+J4XCZVdkVfJAUCA=
+
+Name: assets/achievements/images/ACH51.jpg
+SHA-256-Digest: WDb6Pep9D6IkWHI6Mv9pAjqcx46mvucHRZY0rqj08Kc=
+
+Name: assets/achievements/images/ACH51_gray.jpg
+SHA-256-Digest: K1NL/bXyilC2ok2wQfwqzSukOmxZhz321HHIPbLM10s=
+
+Name: assets/achievements/images/ACHGO1.jpg
+SHA-256-Digest: 7LKpgOcrKpTwIEB/RDenklO7zcOOkKNXO70EMaFE320=
+
+Name: assets/achievements/images/ACHGO1_gray.jpg
+SHA-256-Digest: 7LKpgOcrKpTwIEB/RDenklO7zcOOkKNXO70EMaFE320=
+
+Name: assets/achievements/images/ACHGO2.jpg
+SHA-256-Digest: e6hz97hh8WT+VyQl77UVK4f0JuhSbSucnOO1Y2AcJ7Y=
+
+Name: assets/achievements/images/ACHGO2_gray.jpg
+SHA-256-Digest: e6hz97hh8WT+VyQl77UVK4f0JuhSbSucnOO1Y2AcJ7Y=
+
+Name: assets/achievements/images/ACHGO3.jpg
+SHA-256-Digest: Xhzlb4xco6lp9jPnVFUzTZhfOM81SAaBQIXWwOtKMk8=
+
+Name: assets/achievements/images/ACHGO3_gray.jpg
+SHA-256-Digest: Xhzlb4xco6lp9jPnVFUzTZhfOM81SAaBQIXWwOtKMk8=
+
+Name: assets/achievements/images/ACHGO4.jpg
+SHA-256-Digest: MXTwf6w0BgiiuC2joT1zhqVF5KcyTUCu2rOO07oKS6o=
+
+Name: assets/achievements/images/ACHGO4_gray.jpg
+SHA-256-Digest: MXTwf6w0BgiiuC2joT1zhqVF5KcyTUCu2rOO07oKS6o=
+
+Name: assets/achievements/images/ACHGO5.jpg
+SHA-256-Digest: O5zHEjMK7+WRxgOuOra7F231anMZvMm2TidD9UJhWU4=
+
+Name: assets/achievements/images/ACHGO5_gray.jpg
+SHA-256-Digest: O5zHEjMK7+WRxgOuOra7F231anMZvMm2TidD9UJhWU4=
+
+Name: assets/achievements/images/ACHGO6.jpg
+SHA-256-Digest: pVbafKYc6aWSv9YWr8cymMKq/wLIJX6fFMUqBny73+A=
+
+Name: assets/achievements/images/ACHGO6_gray.jpg
+SHA-256-Digest: pVbafKYc6aWSv9YWr8cymMKq/wLIJX6fFMUqBny73+A=
+
+Name: assets/achievements/images/ACHGO7.jpg
+SHA-256-Digest: bzxczQd5GtKB97EIEXz7Ht1OQ3SJrymAy/7qy+XPc7A=
+
+Name: assets/achievements/images/ACHGO7_gray.jpg
+SHA-256-Digest: bzxczQd5GtKB97EIEXz7Ht1OQ3SJrymAy/7qy+XPc7A=
+
+Name: assets/achievements/images/ACHGO8.jpg
+SHA-256-Digest: NiH36HjsU+6HxSQXXGj8z2wlGB6Ok6GZ/G/9x08X2PY=
+
+Name: assets/achievements/images/ACHGO8_gray.jpg
+SHA-256-Digest: NiH36HjsU+6HxSQXXGj8z2wlGB6Ok6GZ/G/9x08X2PY=
+
+Name: assets/achievements/images/ACHH1.jpg
+SHA-256-Digest: mkYacdX4Er5Plq2Yt/wZfR8ddmDYBC3NJ4X5MUzFQLc=
+
+Name: assets/achievements/images/ACHH10.jpg
+SHA-256-Digest: qUDe6iw3ziVfEvXaXP7X5C5DrniZ48rJ+o5Ka2rn048=
+
+Name: assets/achievements/images/ACHH10_gray.jpg
+SHA-256-Digest: edRBx9onRF6JG1wl6Bgd41XpI2Kitw9IQd37G+bhSLY=
+
+Name: assets/achievements/images/ACHH11.jpg
+SHA-256-Digest: 0zjDQ+k8nUdp/K0cpdXuVz3chxJ2GVuSsBO4VVTjshA=
+
+Name: assets/achievements/images/ACHH11_gray.jpg
+SHA-256-Digest: jBjlH/f7n9iixQMupBdZROCMY+I6zbisWeZvIqbYyQM=
+
+Name: assets/achievements/images/ACHH1_gray.jpg
+SHA-256-Digest: dPDj15dli4eNfzmdXoPIXqwDvZouMMe/ra0U2ZDEFM4=
+
+Name: assets/achievements/images/ACHH2.jpg
+SHA-256-Digest: K7FerZTZEjiIt3GHGAzQpqzaL0qZO7Z8nS2EkgvSRjw=
+
+Name: assets/achievements/images/ACHH2_gray.jpg
+SHA-256-Digest: Ybf7oUrn3VcJq4phMb8ZUsmgePMmE+duj6qn32bz8yI=
+
+Name: assets/achievements/images/ACHH3.jpg
+SHA-256-Digest: 6KmhQFyqqLhK2o9Y3Mba3RWf4ybp0GO8T97K8AOM7WA=
+
+Name: assets/achievements/images/ACHH3_gray.jpg
+SHA-256-Digest: 2rAqWvsZzADd5MWWQe0qnBcB439NkYuMkIynJYVXk/s=
+
+Name: assets/achievements/images/ACHH4.jpg
+SHA-256-Digest: hBlrE7NqSCPrmFdSkYcfO/Dkj9BfBUkw1h/Bon1MP/k=
+
+Name: assets/achievements/images/ACHH4_gray.jpg
+SHA-256-Digest: MiGJpVu2jWLNqwBYifIojErcxOaBf58dbFh5jRoy0h8=
+
+Name: assets/achievements/images/ACHH5.jpg
+SHA-256-Digest: 0+v7928/BbR7dgllSEr1QJicblRd9BEzJ1QspQ6WJ1E=
+
+Name: assets/achievements/images/ACHH5_gray.jpg
+SHA-256-Digest: IC3SEW7M6fhBPV6HsQHE1HitJlvagQElS8WQOe8Pgy8=
+
+Name: assets/achievements/images/ACHH6.jpg
+SHA-256-Digest: 3kE+jLzw0JtrwuuZnxliJUi/gjBONDDFDIgcr7bMbUQ=
+
+Name: assets/achievements/images/ACHH6_gray.jpg
+SHA-256-Digest: aZRCPSyHmpAGVPq3dxTCVHlRUW2mIZahAS4YYog8jDg=
+
+Name: assets/achievements/images/ACHH7.jpg
+SHA-256-Digest: 95LHU0HcwHve8srN7JSI9vyZaS68NUbXDi4MW1cei6s=
+
+Name: assets/achievements/images/ACHH7_gray.jpg
+SHA-256-Digest: Lwfl8HCcJWPSjJaTmHHn+FxWvHGJNPs4VFnJO4nzU1k=
+
+Name: assets/achievements/images/ACHH8.jpg
+SHA-256-Digest: SbpD4lr7/UE+LUb2itCJRWHDexzcoHnLm2Amfr7AO68=
+
+Name: assets/achievements/images/ACHH8_gray.jpg
+SHA-256-Digest: FMFAhWCboYs3HvuU//KxxE9+rhzJ/ol2mBZaF5bhxcE=
+
+Name: assets/achievements/images/ACHR10.jpg
+SHA-256-Digest: mT2SAkj3MDrTQ6PTkHYYGcf7aZOhzbOcg0fS0Q1v9gc=
+
+Name: assets/achievements/images/ACHR10_gray.jpg
+SHA-256-Digest: 9+aK3sDmDWqK5CbcC8NuGqp/VlNd18nO0t7MhjjDNEE=
+
+Name: assets/achievements/images/ACHR2.jpg
+SHA-256-Digest: YDrJnFFTAJHWPN1PNgHesmAKWUZIUprpn4fF2HMvmLw=
+
+Name: assets/achievements/images/ACHR2_gray.jpg
+SHA-256-Digest: z/Qm8vfJf2yaqW6/4zsnnmz/ee1exVtZSwyQqjxe5/A=
+
+Name: assets/achievements/images/ACHR3.jpg
+SHA-256-Digest: srXgDcW/HCaEIVZWhW87byYXvWgnAGy5hA7ZPzf8hl0=
+
+Name: assets/achievements/images/ACHR3_gray.jpg
+SHA-256-Digest: NyB+iq+lhZw7t9Er9QDxCHrEabjSrwvDDUWDFBzOLp4=
+
+Name: assets/achievements/images/ACHR4.jpg
+SHA-256-Digest: ZfGXd5P9pvdimg28Jrt/dv6OzMTLbv7OCcw/PomJ+FU=
+
+Name: assets/achievements/images/ACHR4_gray.jpg
+SHA-256-Digest: xzOMbJNuI5Iw2n4izzELDsow/FXsnJGoVoIlrPhlBeM=
+
+Name: assets/achievements/images/ACHR5.jpg
+SHA-256-Digest: 9z5WWXY13uIz5xqTi1nvUCM0wZzq2fyBYJrPJDXvsQo=
+
+Name: assets/achievements/images/ACHR5_gray.jpg
+SHA-256-Digest: O0JEaUIjUH2TcqAel01rK5erwBDX3SRyASAQnBaFLpk=
+
+Name: assets/achievements/images/ACHR6.jpg
+SHA-256-Digest: 52QW92u0Zg0ceAmyG7IT+XHVwRRL7vRCHo7BqOaamQk=
+
+Name: assets/achievements/images/ACHR6_gray.jpg
+SHA-256-Digest: RqIwYve/gX8KlnRJWBEjHaID82+tS9H0wRBxIGbHb0Q=
+
+Name: assets/achievements/images/ACHR7.jpg
+SHA-256-Digest: Ryk0WYZz1h9JhxTfAv5o5rx9CtYwqOdZjvFqRrjz+TM=
+
+Name: assets/achievements/images/ACHR7_gray.jpg
+SHA-256-Digest: RHOUtSi+IUbmSY8nNhI0KQrfWxiZdu0bIueo+7czxp4=
+
+Name: assets/achievements/images/ACHR8.jpg
+SHA-256-Digest: tk5ygHQY+Vn6qVJurXNNBwRNBGb01vSZfzXXWX8LkCU=
+
+Name: assets/achievements/images/ACHR8_gray.jpg
+SHA-256-Digest: pB8Q79miqbgYlNw69I/srUiUGT4hE/XY2qg64ezUDpc=
+
+Name: assets/achievements/images/ACHR9.jpg
+SHA-256-Digest: Ze3kA+U2Q4ioWxKsPlspmkitAKCkqgoqWlW4u8EeEF4=
+
+Name: assets/achievements/images/ACHR9_gray.jpg
+SHA-256-Digest: 7C6e5mYbbcPZDWqaX/4Q7JgW0wpUAlgj6BtHN1voLQc=
+
+Name: assets/build-stamp
+SHA-256-Digest: c9Voj9XbSX3gRJiPjtrb63Pusnj43OaHOMM/0G26f/0=
+
+Name: assets/gwsc.properties
+SHA-256-Digest: 8pm591E9Ff4uxYb6Cs1pLqXioC2SWT3MJ4GnI7w/mCk=
+
+Name: assets/hud/chalet.otf
+SHA-256-Digest: mqVnTi4/I0+N2hpxvpVJ0/PzM9TxCOjGVB/8TNpxgQw=
+
+Name: assets/hud/font.bin
+SHA-256-Digest: gcFTazalG3IFNJFwzY+swmReRptYiGoeGOYFPKXfem0=
+
+Name: assets/launcher/background1.jpg
+SHA-256-Digest: zhbFd/XrbtmVyHT3EeG+52m3DIQ3kp0sg4UtZQAc4uM=
+
+Name: assets/launcher/background2.jpg
+SHA-256-Digest: kUTjh4It7RdOxmKpeOP+utcSnhiZ+2Ynk9BSurzzMWI=
+
+Name: assets/launcher/background3.jpg
+SHA-256-Digest: QNO+sIpLZ4lS5hG7kv0Vin5DTnrUHL4pwo1EzKS7GLI=
+
+Name: assets/launcher/background4.jpg
+SHA-256-Digest: h2tifUNXh5IGQVs40JTF/jtf2T3WOkaMPqH8TOHRQME=
+
+Name: assets/launcher/cover.png
+SHA-256-Digest: G4bKiTxMpy0ICg28ttAploLp7cR0ML7hpEkxDVN+Z9E=
+
+Name: assets/launcher/online/background1.png
+SHA-256-Digest: xnbWSFjF8MLCtWGM1qCynE4mXuB1CD6P896LzcIQdSY=
+
+Name: assets/launcher/online/background2.png
+SHA-256-Digest: mzT9VXYKkWirTudccLW4wvTnJaQGzbNMymgGOXi0WxY=
+
+Name: assets/launcher/online/background3.png
+SHA-256-Digest: gMvZkorFsMvydzBmXeYoIc9kCMyM7YCL2mmtQWzCWsI=
+
+Name: assets/launcher/online/cover.png
+SHA-256-Digest: L6j/MDlxxcuabEhmamlysj5bT61O/CN/k5G40geoMkw=
+
+Name: assets/origins.conf
+SHA-256-Digest: hqlHx1ZFeg1qYTf9uZq4IR4+n/Sb5bBrN7H298i1NUA=
+
+Name: assets/pipeline-seed.list
+SHA-256-Digest: eXCgEz2oVJc7aoF9RIwAzGHcAIvI42k5QKiPtrimowY=
+
+Name: assets/preload-url
+SHA-256-Digest: KOegXZiW6pWttE54nNhXfO0+pTGCLZ7ou4O8ZH5Q1Xw=
+
+Name: assets/touch/README.md
+SHA-256-Digest: kWG0WO9wiCHyI6Zz4aQF/LqIQc8eQHED2HRe9UKzM3o=
+
+Name: assets/touch/action.png
+SHA-256-Digest: sRXZSlRd2GiMkrNlIU88MX6hz1glh/jd0O7SYnmm6Ng=
+
+Name: assets/touch/aim.png
+SHA-256-Digest: Sw4r0siSiXSneou+uK+vx5f6miymkuYjH2ejpy6Yd5g=
+
+Name: assets/touch/ascend.png
+SHA-256-Digest: T/TEb+h7YUk1ThmbIWK/0Lcz1xb3dUkRGHqHhsH+Tpg=
+
+Name: assets/touch/back.png
+SHA-256-Digest: 8JXZiM72b3PhzBSy+rOYboPo3fP5Dl2L2oKM+zZGsvs=
+
+Name: assets/touch/behind.png
+SHA-256-Digest: WUAK/wznvymHOPxqGG7pmPI8G0pAGE1DH5XKiefMvo8=
+
+Name: assets/touch/block.png
+SHA-256-Digest: jNyl0teU+3qL7bhFgEs+zCdUzwN9iUiCPdm1yUm+lvA=
+
+Name: assets/touch/bomb.png
+SHA-256-Digest: SgwZQ3LEQk5ODczjEtiv8RbEB5OmRj9wdRgHNr1uZWI=
+
+Name: assets/touch/boost.png
+SHA-256-Digest: AtKgTk4jJk99F2GpMckVPc8GUlcXRNmqmg5u36SwUVY=
+
+Name: assets/touch/brake.png
+SHA-256-Digest: PfH4vyeQjNWHe2eo5v8V6o9xfNPZqwtXJbXC7tYIS9o=
+
+Name: assets/touch/cinematic.png
+SHA-256-Digest: +ECkS1/l6ZFXRkfLjjnPIe7Z/1puJtfUCotCcC/loFU=
+
+Name: assets/touch/counter.png
+SHA-256-Digest: wh4ZdQ6RbBOs2QSlMxN8fFbm/K4H3HKhNXWs7xoSspE=
+
+Name: assets/touch/cover.png
+SHA-256-Digest: ArhFWL8oVo4N1UpASlkWz/rcpXtTEgmeych/8jUln7s=
+
+Name: assets/touch/crouch.png
+SHA-256-Digest: yeJY4G6lqi1pNiiGkWQ3NYDKntVivqA/9U6o0X0Crz4=
+
+Name: assets/touch/deploy.png
+SHA-256-Digest: 1zMvmVhKgTspUF6FQdvPz+LtmoGFfXa553IvAbuQFKI=
+
+Name: assets/touch/descend.png
+SHA-256-Digest: bfBupVh5JzqhZAnHaQXBq5re7qADJp9gbfHyXda55cg=
+
+Name: assets/touch/detach.png
+SHA-256-Digest: 25RkyOCxLMwi/Er6y/ShZS9GzSQdoat7XVtVe5jw9g8=
+
+Name: assets/touch/detonate.png
+SHA-256-Digest: CUo3AgaGoeBo9NSIHglkvl4JP0VVvvWOM6zUmPdCPMA=
+
+Name: assets/touch/down.png
+SHA-256-Digest: bfBupVh5JzqhZAnHaQXBq5re7qADJp9gbfHyXda55cg=
+
+Name: assets/touch/edit.png
+SHA-256-Digest: ddBJovXUym6p//nGj28VP5FyRTyUfKM8nkZwKXEOPhM=
+
+Name: assets/touch/enter.png
+SHA-256-Digest: TJMEUa9UEfL2y1ImzJgpLB5paTJb3nrCDoYcJp3femw=
+
+Name: assets/touch/exit.png
+SHA-256-Digest: TJMEUa9UEfL2y1ImzJgpLB5paTJb3nrCDoYcJp3femw=
+
+Name: assets/touch/fire.png
+SHA-256-Digest: Vl3QBRY+JaP+BY49aCG7iTislaqQEv6ud4+Mhq5IViY=
+
+Name: assets/touch/gas.png
+SHA-256-Digest: 2M4X2GBou9NvOAcZPkTUA5aEKetW2nvnSKjFd77TKNU=
+
+Name: assets/touch/gear.png
+SHA-256-Digest: GIGDzrNtp5r5HXvSRy4deHr2PwUTo75MHGu4RO3PMCg=
+
+Name: assets/touch/handbrake.png
+SHA-256-Digest: RTx5b33utDjvQhlxpIldgnl5iydwXFOzx/6YmTuyLjg=
+
+Name: assets/touch/heavy.png
+SHA-256-Digest: 8fBjteBOGWt21xNsrIglQpWJocLEHoHkooUpO6JAe1I=
+
+Name: assets/touch/horn.png
+SHA-256-Digest: HxDNgc4IkSZNzknL9fWFrGKt8G8e6xYpK4KJcfbvVAI=
+
+Name: assets/touch/hover.png
+SHA-256-Digest: 8GgJCeK42xuUVuRVo7plU2fZrUtXTNI6yNEJmZcspxA=
+
+Name: assets/touch/hydraulics.png
+SHA-256-Digest: qiuH0pqtV0NIl5u1t02uo7XJkAzjmGat77KMrFRs4mQ=
+
+Name: assets/touch/jump.png
+SHA-256-Digest: NoRhc7TUL6FSX38mklo7oaINrT4rzOIjP/Gezk3GRqQ=
+
+Name: assets/touch/left.png
+SHA-256-Digest: wdRgH8bwt+qMqgqvMRlc2VSCNgoKWVrXlEnJUYoVr5A=
+
+Name: assets/touch/lights.png
+SHA-256-Digest: T9tT6FrxN/psNtk1spCd7hZFykdxmyAQ8DgO/9J/jio=
+
+Name: assets/touch/melee.png
+SHA-256-Digest: 7Cz7LMqnHwzwwDowM2qkjXV4mFfQwrg9IxJBoUDQtOE=
+
+Name: assets/touch/more.png
+SHA-256-Digest: zcA75zoLqs7RVjJrdSI/SPk2d2S6sq3yOfjJxhyfDyk=
+
+Name: assets/touch/next_weapon.png
+SHA-256-Digest: /mHtd0VP/LqMs8xmz4Q58ktXpvw0JgO9Ss61khQ8SrU=
+
+Name: assets/touch/pad_a.png
+SHA-256-Digest: LttM3a2fmyCvSca//B3lvR10IzpeeStTy4fvqV5QfiI=
+
+Name: assets/touch/pad_b.png
+SHA-256-Digest: KRcAWkq+aMEYePePunUpkOMl5Fsx3XHY9LCdx5LS/LE=
+
+Name: assets/touch/pad_down.png
+SHA-256-Digest: eEnMiiJdZN9LQ33hHsOlZ/hvER3oN3AFsdwTZZ0F0DE=
+
+Name: assets/touch/pad_dpad.png
+SHA-256-Digest: uIsB1zlvNy8iRDRH+Hz4cFE4i1G0uTWFNOVD0S0Lls8=
+
+Name: assets/touch/pad_dpad_lr.png
+SHA-256-Digest: AbLcbWUouBUNGVmARsL3oGzRdxnmYJPpjluJUd38yp4=
+
+Name: assets/touch/pad_dpad_ud.png
+SHA-256-Digest: a1i8hexr40FnWQys6uCWTeikUQQa4fTkyKoxebnlIN4=
+
+Name: assets/touch/pad_lb.png
+SHA-256-Digest: ak5A1Kamu1LkBS3g0H3i2prBmnCWwGSXyrfotZPS120=
+
+Name: assets/touch/pad_left.png
+SHA-256-Digest: JYTyzf3q0+SmpHKPXm1BwiDFz+zbF8xShomz0Mc3JbQ=
+
+Name: assets/touch/pad_look_down.png
+SHA-256-Digest: cvUv0BF0QEWobXtxJV4ZStbe/s7xQVDwMNJYatEulpc=
+
+Name: assets/touch/pad_look_left.png
+SHA-256-Digest: err9R4DSrgUhVq4r7HiIU7vXcBQ5Uacw/n7k8ILRPUc=
+
+Name: assets/touch/pad_look_right.png
+SHA-256-Digest: x+rNA4EFveBRxIMvkRUuLUSbDUsZjau+w6Kiz1ovn5g=
+
+Name: assets/touch/pad_look_up.png
+SHA-256-Digest: 3+N2OoKs1MxTjWduz4LA/csAaybgJYkJePRRaS3w+lM=
+
+Name: assets/touch/pad_ls.png
+SHA-256-Digest: hSHv5LRjkRLC8FmmrGgCgsdW2+29JW14kgMVac/zL6s=
+
+Name: assets/touch/pad_lt.png
+SHA-256-Digest: TI43hxg7d0/zWD3Tz8i5E4BEC/TM7hp+6GoxEUqYrYw=
+
+Name: assets/touch/pad_rb.png
+SHA-256-Digest: vLc9TsUyMUb6Tj62JKxP5618spi+AVQUU1I2nDyifmg=
+
+Name: assets/touch/pad_right.png
+SHA-256-Digest: i8SXYOjwEv0hY0WDwatAOyguO6UJZEc+7LZt9sZwDmM=
+
+Name: assets/touch/pad_rs.png
+SHA-256-Digest: sTWCzp3/10EnLUR2Pp2uF3TKDGPEWbyTyNOfdmiCEf0=
+
+Name: assets/touch/pad_rt.png
+SHA-256-Digest: ucO9Tb7uyz7AP3t/PWEbAhZmm6Gr1MogOgSPmKkoGQw=
+
+Name: assets/touch/pad_up.png
+SHA-256-Digest: 3hRTV2/I+lVohwtYOXhHWOB1w6dRuiTjf32BbIcXqCw=
+
+Name: assets/touch/pad_x.png
+SHA-256-Digest: 4GmskdjuwKi1bruukhn8j3uETy5av3jFSszdwZBR4Ic=
+
+Name: assets/touch/pad_y.png
+SHA-256-Digest: h+FiPiofokX7ae4ePzONYnCUTqZQk8XUwtA8LhnqgDI=
+
+Name: assets/touch/pause.png
+SHA-256-Digest: wokR7yZMIRoax8Qsm1CCoPZzTGubmfo/fU6nbarlpJk=
+
+Name: assets/touch/phone.png
+SHA-256-Digest: 4ssVsrmJjv4h0qoeT1PHEhp/+5eROsg87vDtqnai1a0=
+
+Name: assets/touch/radio.png
+SHA-256-Digest: 4Kjc/51Ub7YFv28eAJlSfIEZtqdjAB8gm8LnPRuEf2w=
+
+Name: assets/touch/reload.png
+SHA-256-Digest: vNAPBxK7mSYFrs55b4ATzsJSAYnDZYPdTLmCUCM18Y8=
+
+Name: assets/touch/right.png
+SHA-256-Digest: 9nYpVHx48/sdPvrB50qJytVcQQvl3ayL0E9KuQ6pgLM=
+
+Name: assets/touch/roof.png
+SHA-256-Digest: y1esoZtjmGNYZEjnA8/+mCXJAvl390G8aGlqR7xTE+g=
+
+Name: assets/touch/secondary.png
+SHA-256-Digest: JRq+PSYQFKMQzWTJF7vhMypbh9Kqa6kFOaceFEF0vEQ=
+
+Name: assets/touch/select.png
+SHA-256-Digest: ilglynWH5PuIIrHJl5a9Bq2pEcss4zrcIWcvBKt/wLE=
+
+Name: assets/touch/skip.png
+SHA-256-Digest: O3+E5Bs7NUvI8ipeMg+nnC14ohLLBIVIxo78QVw5XcQ=
+
+Name: assets/touch/smoke.png
+SHA-256-Digest: J26xWFm/+Wcd7eXRyT0240a2cYYyDUMOX1nEZjciSQ0=
+
+Name: assets/touch/special.png
+SHA-256-Digest: PljVbfovnu3/2SDliczwNK+6glR0OMUSf7jc6Mbdi9o=
+
+Name: assets/touch/sprint.png
+SHA-256-Digest: 9wpljSkjsKDCnOSYJNuln7yAOh10S0v1qB3GDEQnGx8=
+
+Name: assets/touch/switch.png
+SHA-256-Digest: kBwRTWg1vwBgK8/sBpDOaT7sA6aj6WDwO+yXNRQS2cs=
+
+Name: assets/touch/up.png
+SHA-256-Digest: T/TEb+h7YUk1ThmbIWK/0Lcz1xb3dUkRGHqHhsH+Tpg=
+
+Name: assets/touch/view.png
+SHA-256-Digest: vEnti0wkaq5iqIVmIqoQUjx9HHQEbggLgWB67dCzgss=
+
+Name: assets/touch/weapons.png
+SHA-256-Digest: sXLruEiltOczGmSSS69W/MC2zjIsZUaLiGPM+FZqN4Q=
+
+Name: assets/touch/wings.png
+SHA-256-Digest: KEOoxKI40BebHlAv+4bjDOw1vtx8OjbdGgh48bH8CWM=
+
+Name: assets/touch/yaw_left.png
+SHA-256-Digest: cn0hMg9fxb03e5FWNCvE+umF9enO4QkPtqm03IwHutA=
+
+Name: assets/touch/yaw_right.png
+SHA-256-Digest: gndL+5P4KgF1tjE3griRVmADN27yHdVcXQjJkzC02uo=
+
+Name: assets/touch/zoom_in.png
+SHA-256-Digest: OdwvPVx84RFvPp8HkV8MM4UaejUVs+9HNME7Wc/YdCE=
+
+Name: assets/touch/zoom_out.png
+SHA-256-Digest: R7X1pwLiqJ9/twcs6QOYsob/CdX4Oq2HX0H3mg1LeTY=
+
+Name: assets/ui/select_choose.wav
+SHA-256-Digest: sbJid2fWC0hRxZGFNlYFLZZ6Ayz8HjQ7I2RZYP/tT2o=
+
+Name: assets/ui/select_choose_accept.wav
+SHA-256-Digest: xcscOI0rUMlNJe/CcRhKecWy/lZJLU+wfTV8ljwIHpg=
+
+Name: assets/ui/select_choose_back-or-decline.wav
+SHA-256-Digest: b5VlmHaGwkSJ2FHjBiRgdt27SgSNiqcC0ckRgRvTLWw=
+
+Name: assets/ui/snd0_bgm.mp3
+SHA-256-Digest: 1wSmT3hyzgudejPYDXHXiRmqdObEaELnlWFuaplenrk=
+
+Name: classes.dex
+SHA-256-Digest: PW5+Ax2lWkVMuVGKrpU5KN4N/m9GaEgoa81BgLQT1vI=
+
+Name: lib/arm64-v8a/libfile_redirect_hook.so
+SHA-256-Digest: DvU+2AxSROKGhj79GHLycAyg17C8Sh39hHUvuqakTtU=
+
+Name: lib/arm64-v8a/libfzvulkan.so
+SHA-256-Digest: A953GQfzqXjo31FNsqEHYbS2805oyncXHEf+tEGHFN4=
+
+Name: lib/arm64-v8a/libgsl_alloc_hook.so
+SHA-256-Digest: eCKj52mE6vcUrOaUC46+ZJIa82U7u3A3i4DGeI8jEZ4=
+
+Name: lib/arm64-v8a/libgtav.so
+SHA-256-Digest: LXGZSfmC6q7vCo9C2T9NkPl1ECGWtDq1KEr0aWAFPLI=
+
+Name: lib/arm64-v8a/libhook_impl.so
+SHA-256-Digest: YWZNGUeEprKnVAp1XgAT97My7p0hdFYN8jJs/tM/dow=
+
+Name: lib/arm64-v8a/libmain_hook.so
+SHA-256-Digest: OZ/UdxCSWC1pHsTdVm5Ip8EuwfjLSPjddWWcmMXERk0=
+
+Name: res/drawable/preload_check.xml
+SHA-256-Digest: vTAAV8pvv0qhLQs9AkbmvEq47+Q6xV8wS+4aL/NOxrM=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: pciQndSirmigaplKIFdtuVVR9qPOelaDXQXP/MgmLpY=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: zgkhPQkfYVS6KvsbTcyUcqvws8jUSLhOpH4QdI7P+Oo=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: pciQndSirmigaplKIFdtuVVR9qPOelaDXQXP/MgmLpY=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: 0CewMHHNP+vehhmrSlgTVlfb5ys1UQJLPtuXz1NVEI4=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: pciQndSirmigaplKIFdtuVVR9qPOelaDXQXP/MgmLpY=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: uLCHc9Eh9WoEolfMgiU23NCT6kW6xApvEHNyE9AEIac=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: pciQndSirmigaplKIFdtuVVR9qPOelaDXQXP/MgmLpY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: v8i8qARJTeVArd4AgN1BhBvmTvezZITyv1Z7iN/oWRQ=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: pciQndSirmigaplKIFdtuVVR9qPOelaDXQXP/MgmLpY=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: EYJcym7dGGl5JsjSMIg6/VRBHAnJwRNuNL7pz8S83Vo=
+
+Name: resources.arsc
+SHA-256-Digest: wi+aY98h5PjwX8NHUwIjaSGmU+cZzWdlfNF4v8qMcMI=
+
